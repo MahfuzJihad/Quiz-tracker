@@ -1,0 +1,22 @@
+.topic-cart {
+    background-color: blueviolet;
+    border: 1px solid skyblue;
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 8px;
+    padding-bottom: 15px;
+}
+
+.topic-cart img {
+    margin-left: 42px;
+    height: 280px;
+
+}
+
+.topic-btn {
+    text-decoration: none;
+    color: blueviolet;
+    font-weight: 700;
+    padding: 12px;
+}
