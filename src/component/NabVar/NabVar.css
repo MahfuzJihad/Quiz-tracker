@@ -1,0 +1,28 @@
+.nab-var {
+    color: aliceblue;
+    height: 70px;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+
+
+.nab-link li {
+    display: inline-block;
+    padding: 20px;
+
+}
+
+.nab-topic {
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 600;
+}
+
+.nab-topic:hover {
+    color: black;
+}
