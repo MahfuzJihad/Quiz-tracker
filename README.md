@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Live link
+Link: https://beautiful-sunflower-ea81e2.netlify.app/
+
+### Technology use
+
+1.React
+2. React router
+3. Loader
+4. loader hook
