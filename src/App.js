@@ -6,6 +6,7 @@ import Quiz from './component/Quiz/Quiz';
 import Statistic from './component/Statistic/Statistic';
 import Topics from './component/Topics/Topics';
 import Main from './layout/Main';
+import Error from './component/Error/Error';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
     {
       path: '/',
       element: <Main></Main>,
+      errorElement: <Error></Error>,
       children: [
         {
           path: '/',
