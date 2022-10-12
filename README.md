@@ -1,3 +1,16 @@
+# Bonus marks
+
+### Live link
+Link: https://beautiful-sunflower-ea81e2.netlify.app/
+
+### Technology use
+
+1.React
+2. React router
+3. Loader
+4. loader hook
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,12 +82,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Live link
-Link: https://beautiful-sunflower-ea81e2.netlify.app/
 
-### Technology use
 
-1.React
-2. React router
-3. Loader
-4. loader hook
