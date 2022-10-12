@@ -11,6 +11,7 @@ const Topic = ({ topic }) => {
             <p>Tota:{total}</p>
             <button> <Link to={`/quiz/${id}`} className='topic-btn'>Start practice</Link> </button>
         </div>
+
     );
 };
 
