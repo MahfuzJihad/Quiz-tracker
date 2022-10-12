@@ -10,7 +10,7 @@ const Option = ({ option, handleClick, id }) => {
         <div className='box-quiz'>
             <div>
                 <label>
-                    <input onClick={() => handleClick(option)} type="radio" value="id" name={id} />{option} <ToastContainer position='top-center' />
+                    <input onClick={() => handleClick(option)} type="radio" name={id} />{option} <ToastContainer position='top-center' />
                 </label>
             </div>
         </div>
