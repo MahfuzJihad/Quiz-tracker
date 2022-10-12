@@ -1,12 +1,17 @@
 .header {
+    display: flex;
     background-color: cornflowerblue;
     color: white;
     height: 180px;
-    width: 500px;
+    width: 720px;
     border: 1px solid skyblue;
     border-radius: 10px;
     margin: 18px;
     padding: 8px;
 
 
+}
+
+.quiz-write {
+    margin-left: 6px;
 }
